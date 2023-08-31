@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jiae/static/css/main.2585eb17.css",
+    "main.js": "/jiae/static/js/main.d27a7972.js",
+    "static/js/787.b06acd33.chunk.js": "/jiae/static/js/787.b06acd33.chunk.js",
+    "index.html": "/jiae/index.html",
+    "main.2585eb17.css.map": "/jiae/static/css/main.2585eb17.css.map",
+    "main.d27a7972.js.map": "/jiae/static/js/main.d27a7972.js.map",
+    "787.b06acd33.chunk.js.map": "/jiae/static/js/787.b06acd33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2585eb17.css",
+    "static/js/main.d27a7972.js"
+  ]
+}
